@@ -30,4 +30,3 @@ doHash(1);
 doHash(2);
 doHash(3);
 doHash(4);
-doHash(5);
